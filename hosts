@@ -122992,7 +122992,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 zqtk.net
 0.0.0.0 zy16eoat1w.com
-0.0.0.0 sacdnssedge.com
 
 # End yoyo.org
 
@@ -123004,3 +123003,10 @@ ff02::3 ip6-allhosts
 # 'example.com':
 
 # 0.0.0.0 example.com
+0.0.0.0 sagcoreedge.com
+0.0.0.0 sacdnssedge.com
+0.0.0.0 tsyndicate.com
+0.0.0.0 mnaspm.com
+0.0.0.0 mnaspm.com
+0.0.0.0 strpst.com
+0.0.0.0 ktkjmp.com
